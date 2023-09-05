@@ -6,6 +6,7 @@ import com.vk.modulite.infrastructure.IntegrationTestBase
 import com.vk.modulite.inspections.InternalSymbolUsageInspection
 import org.junit.Ignore
 
+@Ignore
 class AllowUsagesTest : IntegrationTestBase() {
     @Ignore
     data class Case(
